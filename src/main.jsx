@@ -5,7 +5,7 @@ import App from './App.jsx'
 import Home from './pages/home.jsx';
 import Error from './pages/error.jsx';
 
-//import './index.css'
+import './index.css'
 
 const router = createBrowserRouter([
   {
