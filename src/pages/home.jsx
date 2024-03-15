@@ -2,9 +2,9 @@ import React from 'react';
 
 const Home = () => {
     return (
-        <div>
-            <h2>About Me</h2>
-            <p>
+        <div className="container mx-auto px-4 py-8">
+            <h2 className="text-3xl font-bold mb-4">About Me</h2>
+            <p className="text-lg leading-relaxed">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                 ut labore et dolore magna aliqua. Sed lectus vestibulum mattis ullamcorper velit.
                 Tellus cras adipiscing enim eu turpis egestas pretium aenean. Enim neque volutpat ac
@@ -15,6 +15,7 @@ const Home = () => {
                 Id diam maecenas ultricies mi eget mauris pharetra et ultrices.
             </p>
         </div>
+
     )
 }
 
