@@ -3,7 +3,7 @@ import React from 'react';
 const Home = () => {
     return (
         <div className="container mx-auto px-4 py-8 bg-gray-50 flex flex-col items-center">
-            <img src='/public/Headshot.jpg' alt='My Headshot' className="w-1/4 mb-8" />
+            <img src='/Headshot.jpg' alt='My Headshot' className="w-1/4 mb-8" />
             <div className="text-center">
                 <h2 className="text-3xl font-bold mb-4">ABOUT ME</h2>
                 <p className="text-lg leading-relaxed">
