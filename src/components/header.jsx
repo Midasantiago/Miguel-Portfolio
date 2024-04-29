@@ -5,7 +5,7 @@ const Header = () => {
         <header className="bg-blue-500 text-white py-6">
     <div className="container mx-auto px-4">
         <h1 className="text-4xl font-bold">Miguel Ruiz</h1>
-        <p className="text-lg">Future President </p>
+        <p className="text-lg">Graduate Student</p>
     </div>
 </header>
 
